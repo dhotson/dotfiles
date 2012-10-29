@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/dhotson/projects/bluesteel/babushka-deps'
+let g:netrw_dirhist_2='/home/dhotson/projects/bluesteel/app/assets'
+let g:netrw_dirhist_3='/home/dhotson/projects/bluesteel/lib/search/fetcher'
+let g:netrw_dirhist_4='/home/dhotson/projects/bluesteel/lib/yoga_pants'
+let g:netrw_dirhist_5='/home/dhotson/dev/yoga_pants/fixtures'
+let g:netrw_dirhist_6='/home/dhotson/projects/babushka-deps/varnish'
+let g:netrw_dirhist_7='/home/dhotson/projects/contests/config'
